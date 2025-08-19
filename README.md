@@ -1,9 +1,9 @@
 ## About Me:
 
-I'm a full-stack developer proficient in **Node.js**, **Express**, **React**, and **MongoDB**.<br>
-Currently, I'm working on building my personal website, integrated with several AI services.<br>
-I enjoy creating modern, scalable web applications and constantly strive to push the boundaries of what I can build.<br>
-Passionate about clean code, UI/UX, and solving real-world problems with technology.<br><br>
+ Full-Stack Developer | Node.js • React • Express • MongoDB  
+ Building modern, scalable web applications  
+ Portfolio: [unkmitm.xyz](https://unkmitm.xyz)
+
 
 ## Socials:
 
